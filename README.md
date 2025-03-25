@@ -139,21 +139,22 @@ Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do S
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150em" 
     src="https://github-readme-stats.vercel.app/api?username=guiperlasca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiperlasca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
