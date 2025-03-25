@@ -159,6 +159,9 @@ Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do S
 
 </p>
 
+
+
+
 ###  📧 Contato
 - **Email:** [perlasca47@gmail.com](mailto:perlasca47@gmail.com)
 - **LinkedIn:** [Guilherme Perlasca](www.linkedin.com/in/guilherme-perlasca-da-fontoura-848035263)
