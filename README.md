@@ -130,8 +130,8 @@ Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do S
 />
 <img 
     align="left" 
-    alt="Firezilla" 
-    title="Firezilla"
+    alt="Filezilla" 
+    title="Filezilla"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" 
@@ -160,6 +160,8 @@ Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do S
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiperlasca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+<br/><br/>
+<div style="clear: both;"></div>
 
 ---
 
