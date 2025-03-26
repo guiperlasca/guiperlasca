@@ -160,8 +160,9 @@ Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do S
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiperlasca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-<br/><br/>
-<div style="clear: both;"></div>
+<br/><br/><br/>
+<div style="clear: both; margin-bottom: 20px;"></div>
+
 
 ---
 
