@@ -1,7 +1,5 @@
 # 👨‍💻 Guilherme Perlasca
 
-**`Desenvolvedor FullStack`**
-
 Olá! Me chamo Guilherme Perlasca, tenho 19 anos, sou natural do Rio Grande do Sul e concluí meu ensino médio no Marista Assunção. Tenho grande interesse por tecnologia e desenvolvimento de software e atualmente curso Ciência da Computação na UniRitter, sempre buscando aprimorar meus conhecimentos e evoluir na área.
 
 ---
